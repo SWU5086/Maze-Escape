@@ -1,8 +1,12 @@
+
+
+
+
 ## 🎮 遊戲展示
 
 ### 遊戲過程
 <!-- 將下方 src 替換為你的影片網址，可依需求調整 width 數值 -->
-<video src="https://github.com/user-attachments/assets/55238ff6-773e-41f5-be39-fbf229770fb6" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/1f244338-7fde-42ab-839c-fe35ae7abd8f" width="800" controls></video>
 
 ### 遊戲截圖
 <!-- 使用 HTML 表格強制三張圖片等寬並排，防止跑版 -->
